@@ -24,3 +24,7 @@ git clone https://github.com/ajiz2004/hatio-CC.git
 cd hatio-CC
 mvn clean install
 mvn spring-boot:run
+```
+Developer's Note 📝
+I am new to Java and primarily familiar with Python and web development.
+I built this project within a 1-day deadline, doing my best to complete the challenge. 
