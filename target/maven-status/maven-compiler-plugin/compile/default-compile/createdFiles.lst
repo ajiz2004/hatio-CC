@@ -1,0 +1,7 @@
+com\example\currencyconverter\HomeController.class
+com\example\currencyconverter\CurrencyConverterApplication.class
+com\example\currencyconverter\CurrencyService.class
+com\example\currencyconverter\ConversionRequest.class
+com\example\currencyconverter\CurrencyController.class
+com\example\currencyconverter\GlobalExceptionHandler.class
+com\example\currencyconverter\ConversionResponse.class
